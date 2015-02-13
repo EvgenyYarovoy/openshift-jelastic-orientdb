@@ -6,7 +6,7 @@ Version: '666'
 License: GNU GENERAL PUBLIC LICENSE
 License-Url: 
 Vendor: Orient Technologies 
-Cartridge-Version: 0.0.1
+Cartridge-Version: 0.0.2
 Cartridge-Vendor: jelastic
 Source-Url: https://github.com/EvgenyYarovoy/jelastic-public-cartridges/openshift-jelastic-orientdb.git
 Categories:
