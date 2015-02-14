@@ -1,6 +1,6 @@
 Name: OrientDB
 Cartridge-Short-Name: ORIENTDB
-Display-Name: YarovoyORIENTDB
+Display-Name: ORIENTDB
 Description: "OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs."
 Version: '666'
 License: GNU GENERAL PUBLIC LICENSE
@@ -39,8 +39,8 @@ Cart-Data:
     Type: environment
     Description: "Unique ID which identified the gear. This value changes between gears."
 Provides:
-  - testorientdb-1.7.4
-  - "testorientdb"
+  - orientdb-1.7.4
+  - "orientdb"
 Scaling:
   Min: 1
   Max: 1
